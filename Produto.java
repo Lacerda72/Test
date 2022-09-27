@@ -5,8 +5,4 @@ public class Produto {
     public String ProdutoMarca;
     public Float valorProduto;
     public int QProduto;
-
-
-
-
 }
